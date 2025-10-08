@@ -48,3 +48,8 @@ Why these metrics?
 1. Focused primarily on physical characteristics of the ball; contextual factors (pitcher, batter, stadium) not included.
 2. “Out” mapped to 0 may oversimplify certain events.
 3. Performance can be improved — RMSE is still relatively high .
+
+Author: 
+
+Joanna Jipson 
+UNC Chapel Hill (B.S) Computer Science and Statistics
